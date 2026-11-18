@@ -1,0 +1,5 @@
+Build/
+Dist/
+.DS_Store
+*.dSYM/
+*.log
